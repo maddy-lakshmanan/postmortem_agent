@@ -1,5 +1,6 @@
-langchain-core>=0.1.0
-langchain-deepseek>=0.1.0
-python-dotenv>=1.0.0
-langgraph>=0.0.5
-typing-extensions>=4.0.0  # For TypedDict annotations
+langchain_deepseek
+
+setuptools
+python-dotenv
+langchain-openai
+langchain-core
